@@ -1,9 +1,9 @@
 Cloud Computing - 
 Cloud Computing is an advance way of accessing the services like CPU, websites, servers and many more virtually.
-  There are mainly three services 
+There are mainly three services 
 Iaas - Infrastructure as a service
-pass - Platform as a Service
-saas - Software as a service
+Pass - Platform as a Service
+Saas - Software as a service
 cloud computing involves services like -
 -storage
 -compute Servers
